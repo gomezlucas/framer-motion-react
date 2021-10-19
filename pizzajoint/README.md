@@ -1,6 +1,6 @@
 # Framer Motion (for React) 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It shows examples of the different kind of animations from the React Library
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It shows examples of the different animations in the React Library
 
 ## Screen
 
